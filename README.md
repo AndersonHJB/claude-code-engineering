@@ -1,12 +1,33 @@
-# Claude Code 工程化实战
+# Claude Code 工程化实战 · 课程大纲
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/📕_新书-《编程启蒙：思维与代码》-d4380d?style=for-the-badge&labelColor=2d3748" alt="Claude Code 实战"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/共10章-体系化讲解-7c3aed?style=for-the-badge" alt="10章"/></a>
+</p>
+
+<a href="#"><img src="https://img.shields.io/badge/🛒_京东购买-item.jd.com%2F15374814-e1251b?style=for-the-badge&labelColor=2d3748" alt="京东购买"/></a>
+
+
+
+<p align="center">
+  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/平台-极客时间-00b4ab?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+" alt="极客时间"/></a>
+  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/2026-首发专栏-ff6b35?style=for-the-badge" alt="2026首发"/></a>
+  <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/Claude_Code-工程化实战-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📅_上线日期-2026年1月28日-success?style=flat-square&labelColor=2d3748" alt="上线日期"/>
+  <img src="https://img.shields.io/badge/状态-已上线_🔥-brightgreen?style=flat-square" alt="已上线"/>
+  <img src="https://img.shields.io/badge/🏆_总榜第一-万人订阅-ff6b35?style=flat-square&labelColor=2d3748" alt="总榜第一"/>
+</p>
+
+<h3 align="center">🚀 上线一个月，万人订阅，极客时间总榜第一</h3>
 
 ## 开篇词：极客与 AI 的共舞
-
----
 
 ## 第一部分：基础篇
 
 ### 第 1 讲：登高望远 · Claude Code 全景导览
+
 Claude Code 不只是一个命令行助手，而是一个可扩展的 AI Agent 框架——理解其技术栈全貌是掌控它的第一步。
 
 ### 第 2 讲：过目不忘 · CLAUDE.md 记忆系统
@@ -74,18 +95,27 @@ Description 不只是说明文档，而是触发器——掌握让 Claude 自动
 
 ## 第五部分：生产化与工程化
 
-### 第 18 讲：无人值守 · Headless 模式与 CI/CD 集成
+### 第 18 讲：庖丁解牛 · Tools 工具系统深度剖析
+十几个精选的原语工具覆盖五个原子操作，通过涌现产生无限复杂能力——理解工具背后的设计哲学，用起来才能游刃有余。
+
+### 第 19 讲：无人值守 · Headless 模式与 CI/CD 集成
 当 Claude Code 脱离人的实时操控，以守护进程般的姿态嵌入流水线，开发团队获得的不只是效率提升，而是一种全新的人机协作节奏。
 
-### 第 19 讲：庖丁解牛 · Agent SDK 基础
-SDK 把 Claude Code 的能力拆解为可编程的接口——`query()` 和 `ClaudeSDKClient`，让你像调用函数一样驱动 AI Agent。
+### 第 20 讲：有章可循 · Rules 规则系统深度剖析
+指令规则告诉 Claude 该怎么做，权限规则告诉 Claude 能做什么——两套规则协同运作，构成整个系统的行为约束体系。
 
-### 第 20 讲：得心应手 · Agent SDK 高级应用
+### 第 21 讲：登堂入室 · Agent SDK 基础
+SDK 把 Claude Code 的能力拆解为可编程的接口——`query()` 和 `ClaudeCodeOptions`，让你像调用函数一样驱动 AI Agent。
+
+### 第 22 讲：得心应手 · Agent SDK 高级应用
 **项目：自动化测试修复 Agent** — 自定义工具、Hooks 拦截、权限分层和流式会话，构建生产级 AI Agent。
 
-### 第 21 讲：化零为整 · Plugins 插件打包与分发
+### 第 23 讲：化零为整 · Plugins 插件打包与分发
 **项目：团队能力包** — 把 Commands、Skills、Agents、Hooks、MCP 配置打包成一个可安装、可升级、可分享的插件，实现团队资产沉淀与共享。
 
----
-
+<p align="center">
+  <a href="https://bornforthis.cn/column/Python-Programming-Course/P14-claude-code-engineering-practice/00-ai-geek-co-evolution.html">
+    <img src="https://img.shields.io/badge/👉_点击这里开启课程之旅-Bornforthis-00b4ab?style=for-the-badge&labelColor=2d3748" alt="开启课程之旅"/>
+  </a>
+</p>
 
